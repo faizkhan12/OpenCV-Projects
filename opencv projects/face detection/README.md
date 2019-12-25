@@ -7,4 +7,10 @@ When using OpenCV’s deep neural network module with Caffe models, we’ll need
 Both are already n the repository. 
 There are documentations in the code itself.
 
-| ![Alt text](screenshots/1.png?raw=true "Splash Screen" )
+| Side view|
+
+![Alt text](Screenshots/1.png?raw=true "Side view" )  
+
+| Front view|
+
+ ![Alt text](Screenshots/2.png?raw=true "Front view" ) 
