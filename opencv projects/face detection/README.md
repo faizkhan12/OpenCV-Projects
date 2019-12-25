@@ -1,11 +1,13 @@
-In this , I tried to implement Facial REcognition using DNN(Deep Neural Network).
+ I tried to implement Facial Recognition using DNN(Deep Neural Network).
 When using OpenCV’s deep neural network module with Caffe models, we’ll need two sets of files:
 
 1. The .prototxt file(s) which define the model architecture (i.e., the layers themselves)
 2. The .caffemodel file which contains the weights for the actual layers
 
-Both are already n the repository. 
+Both are already in the repository. 
 There are documentations in the code itself.
+
+## Results
 
 | Side view|
 
