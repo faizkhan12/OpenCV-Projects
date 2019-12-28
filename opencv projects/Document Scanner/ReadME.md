@@ -1,0 +1,1 @@
+Document Scanner or bird-eye view is  a feature to capture the text in the image and display it in the front of the user giving it 4 point perspective transform 
