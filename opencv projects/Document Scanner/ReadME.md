@@ -12,3 +12,7 @@ Document Scanner or bird-eye view is  a feature to capture the text in the image
 3. imutils
 
 # Results
+
+ | Edge Detection  |  Finding Contours | Top-Down View |
+| ------------- | ------------- | ------------- |
+| ![Alt text](results/edge.png?raw=true "Canny Edge" )  |   ![Alt text](results/contour.png?raw=true " Contours" )  |   ![Alt text](results/Scan.png?raw=true " 4 point perspective" )
