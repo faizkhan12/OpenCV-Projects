@@ -11,7 +11,7 @@ There are documentations in the code itself.
 
 | Side view|
 
-![Alt text](Screenshots/1.png?raw=true "Side view" )  
+ ![Alt text](Screenshots/1.png?raw=true "Side view")  
 
 | Front view|
 
